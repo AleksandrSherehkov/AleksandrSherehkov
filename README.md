@@ -15,6 +15,8 @@
 <img align="right" width="430" src="./image/full2.gif" />
 <br/>
 
+## A little more about me...
+
 <ul>
   <li> 👨 I'm Oleksandr Shereshkov, a 💻 Full-Stack Developer. </li>
   <li> 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.</li>
