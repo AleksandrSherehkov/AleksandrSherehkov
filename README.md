@@ -36,7 +36,6 @@
   <img src="https://www.codewars.com/users/AleksandrSherehkov/badges/large" alt="Codewars">
 </a>
 </div>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
  <p>
