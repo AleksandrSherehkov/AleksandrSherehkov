@@ -11,7 +11,7 @@
         </a>
     </p>
 </div>
-
+<div></div>
 <img align="right" width="430" src="./image/full2.gif" />
 <br/>
 
@@ -27,6 +27,7 @@
   <li> 📫 How to reach me: <a href="mailto: aleksandr.shereshkov@gmail.com">aleksandr.shereshkov@gmail.com</a> </li>
 </li>
 </ul>
+</div>
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
  <p>
