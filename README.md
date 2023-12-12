@@ -17,9 +17,10 @@
 
 <ul>
   <li> 👨 I'm Oleksandr Shereshkov, a 💻 Full-Stack Developer. </li>
-  <li> 👯 Studying something new or creating a project.</li>
+  <li> 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.</li>
   <li> 🥅 2023 Goals: Contribute more to Open Source projects.</li>
   <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
+  <li> 📚 I always learn something new to develop</li>
   <li> 🎣 Fun fact: I am a professional in both sport feeder angling and carp fishing </li>
   <li> 📫 How to reach me: <a href="mailto: aleksandr.shereshkov@gmail.com">aleksandr.shereshkov@gmail.com</a> </li>
 </li>
