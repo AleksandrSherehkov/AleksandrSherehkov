@@ -10,8 +10,9 @@
         <a href="mailto:aleksandr.shereshkov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
         </a>
     </p>
+
 </div>
-<div></div>
+<div>
 <img align="right" width="430" src="./image/full2.gif" />
 <br/>
 
@@ -30,6 +31,7 @@
 </div>
 
 <div align="center">
+<br/>
 <a  href="https://www.codewars.com/users/AleksandrSherehkov">
   <img src="https://www.codewars.com/users/AleksandrSherehkov/badges/large" alt="Codewars">
 </a>
