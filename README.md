@@ -43,7 +43,7 @@
  <p>
  <a href="https://github.com/search?q=user%3AAleksandrSherehkov+language%3Acss3"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3AAleksandrSherehkov+language%3Ahtml5"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3AAleksandrSherehkov+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sasa-CC6699.svg?logo=sass&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3AAleksandrSherehkov+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AAleksandrSherehkov+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3AAleksandrSherehkov+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AAleksandrSherehkov+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
