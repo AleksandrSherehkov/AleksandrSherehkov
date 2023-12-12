@@ -12,7 +12,7 @@
     </p>
 </div>
 
-<img align="right" width="400" src="./image/full.gif" />
+<img align="right" width="430" src="./image/full.gif" />
 <br/>
 
 <ul>
