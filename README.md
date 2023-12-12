@@ -38,9 +38,12 @@
   <img src="https://www.codewars.com/users/AleksandrSherehkov/badges/large" alt="Codewars">
 </a>
 </div>
+<div align="center">
+<br/>
 <a href="http://monip.org">
   <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website status">
 </a>
+</div>
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
  <p>
