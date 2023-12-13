@@ -126,7 +126,9 @@
     <a href="https://github.com/AleksandrSherehkov/DontTouchMyState">
   <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=DontTouchMyState&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Readme Card">
    </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="ReadMe Card">
+</a>
 
   </p>
 
