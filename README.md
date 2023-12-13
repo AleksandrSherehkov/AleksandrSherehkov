@@ -112,7 +112,7 @@
 
  <p align="left">
    <a href="https://github.com/AleksandrSherehkov/learnLingo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=learnLingo" alt="Readme Card">
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=learnLingo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Readme Card">
 </a>
 
   </p>
