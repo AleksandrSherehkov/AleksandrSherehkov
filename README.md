@@ -43,6 +43,8 @@
 <a href="http://monip.org">
   <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website status">
 </a>
+<img src="https://komarev.com/ghpvc/?username=AleksandrSherehkov" alt="profile views">
+
 </div>
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -124,6 +126,7 @@
     <a href="https://github.com/AleksandrSherehkov/DontTouchMyState">
   <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=DontTouchMyState&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Readme Card">
    </a>
+
 
   </p>
 
