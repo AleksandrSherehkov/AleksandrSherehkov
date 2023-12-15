@@ -124,8 +124,21 @@
 <a href="https://github.com/AleksandrSherehkov/learnLingo">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=learnLingo&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="learnLingo repository">
 </a>
-
-
+<a href="https://github.com/AleksandrSherehkov/petgrammers-frontend">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=petgrammers-frontend&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="petgrammers-frontend repository">
+</a>
+<a href="https://github.com/AleksandrSherehkov/DontTouchMyState">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=DontTouchMyState&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DontTouchMyState repository">
+</a>
+<a href="https://github.com/AleksandrSherehkov/Filmoteka">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=Filmoteka&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Filmoteka repository">
+</a>
+<a href="https://github.com/AleksandrSherehkov/nextjs-dashboard">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=nextjs-dashboard&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nextjs-dashboard repository">
+</a>
+<a href="https://github.com/AleksandrSherehkov/petgrammers-backend">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=petgrammers-backend&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="petgrammers-backend repository">
+</a>
   </p>
 
 
