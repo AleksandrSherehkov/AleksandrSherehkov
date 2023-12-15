@@ -34,6 +34,7 @@
 </div>
 
 <div align="center">
+
 <br/>
 <a  href="https://www.codewars.com/users/AleksandrSherehkov">
   <img src="https://www.codewars.com/users/AleksandrSherehkov/badges/large" alt="Codewars">
@@ -47,6 +48,10 @@
 <img src="https://komarev.com/ghpvc/?username=AleksandrSherehkov" alt="profile views">
 
 </div>
+
+
+
+
 <br/>
 <br/>
 
@@ -116,9 +121,11 @@
   <h2>📘 My Top Open Source Projects</h2>
 
  <p align="left">
-   
+<a href="https://github.com/AleksandrSherehkov/learnLingo">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=learnLingo&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="learnLingo repository">
 </a>
+
 
   </p>
 
-<a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
