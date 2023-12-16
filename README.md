@@ -143,19 +143,9 @@
   <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
 <br/>
-<br/>
 
-<h3>💻 GitHub Profile Stats</h3>
 
-<div style="display: flex; align-items: center; justify-content: center; ">
-  <a href="https://github.com/AleksandrSherehkov">
-    <img alt="AleksandrSherehkov's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AleksandrSherehkov&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=182c53&title_color=F85D7F&icon_color=F8D866" width="470px" height="192"/>
-  </a>
-  <a href="https://github.com/AleksandrSherehkov">
-    <img alt="AleksandrSherehkov's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AleksandrSherehkov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=182c53&title_color=F85D7F&icon_color=F8D866" height="192"/>
-  </a>
-</div>
-<br/>
+
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
