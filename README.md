@@ -146,12 +146,3 @@
 
 
 
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<a href="https://github.com/AleksandrSherehkov/github-readme-activity-graph">
-  <img alt="AleksandrSherehkov's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AleksandrSherehkov&bg_color=182c53&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
-
-
-
