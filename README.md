@@ -147,7 +147,7 @@
 
 <h3>💻 GitHub Profile Stats</h3>
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: center; ">
   <a href="https://github.com/AleksandrSherehkov">
     <img alt="AleksandrSherehkov's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AleksandrSherehkov&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=182c53&title_color=F85D7F&icon_color=F8D866"  height="192"/>
   </a>
