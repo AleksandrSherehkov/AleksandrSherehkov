@@ -148,7 +148,7 @@
 <h3>💻 GitHub Profile Stats</h3>
 
 <a href="https://github.com/AleksandrSherehkov/github-readme-stats">
-  <img alt="AleksandrSherehkov's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AleksandrSherehkov&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=182c53&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="AleksandrSherehkov's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AleksandrSherehkov&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=182c53&title_color=F85D7F&icon_color=F8D866" width="450px height="192px"/>
 </a>
 <a href="https://github.com/AleksandrSherehkov/github-readme-stats">
   <img alt="AleksandrSherehkov's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AleksandrSherehkov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=182c53&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
