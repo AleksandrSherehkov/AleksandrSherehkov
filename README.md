@@ -137,6 +137,10 @@
 <a href="https://github.com/AleksandrSherehkov/petgrammers-backend">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=petgrammers-backend&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="petgrammers-backend repository">
 </a>
+
+<a href="https://github.com/AleksandrSherehkov/vue_temp">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=vue_temp&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="vue_temp repository">
+</a>
   </p>
 
 <a href="https://github.com/AleksandrSherehkov?tab=repositories&sort=stargazers">
