@@ -128,6 +128,9 @@
 <a href="https://github.com/AleksandrSherehkov/DontTouchMyState">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=DontTouchMyState&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DontTouchMyState repository">
 </a>
+     <a href="https://github.com/AleksandrSherehkov/foodMentor">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=foodMentor&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="foodMentor repository">
+</a>
 <a href="https://github.com/AleksandrSherehkov/Filmoteka">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=Filmoteka&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Filmoteka repository">
 </a>
