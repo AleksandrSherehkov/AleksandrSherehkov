@@ -71,7 +71,7 @@
   <p>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-black.svg?logo=Next.js&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-20232a.svg?logo=vue&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-20232a.svg?logo=vue.js&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?logo=redux&logoColor=white"></a>
     <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245.svg?logo=react-router&logoColor=white"></a>
