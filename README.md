@@ -120,9 +120,10 @@
   <h2>📘 My Top Open Source Projects</h2>
 
  <p align="left">
-<a href="https://github.com/AleksandrSherehkov/readJourney">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=readJourney&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readJourney repository">
+ <a href="https://github.com/AleksandrSherehkov/petgrammers-frontend">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=petgrammers-frontend&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="petgrammers-frontend repository">
 </a>
+
 <a href="https://github.com/AleksandrSherehkov/learnLingo">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=learnLingo&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="learnLingo repository">
 </a>
