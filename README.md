@@ -131,7 +131,7 @@
 </a>
 
 <a href="https://github.com/AleksandrSherehkov/eventsRegistrationApp_Backend">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=eventsRegistrationApp_Backend&theme=next&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="eventsRegistrationApp_Backend">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=eventsRegistrationApp_Backend&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="eventsRegistrationApp_Backend">
 </a>
 
 <a href="https://github.com/AleksandrSherehkov/events_frontend">
