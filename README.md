@@ -121,10 +121,7 @@
 
  <p align="left">
  
-     
-     <a href="https://github.com/AleksandrSherehkov/medicalDashBoard_front">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=medicalDashBoard_front&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="medicalDashBoard_front repository">
-</a>
+
       <a href="https://github.com/AleksandrSherehkov/events_frontend">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=events_frontend&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="events_frontend repository">
 </a>
