@@ -125,6 +125,10 @@
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=snake-frontend&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="snake-frontend repository">
 </a>
 
+ <a href="https://github.com/AleksandrSherehkov/snake-backend">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=snake-backend&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="snake-backend repository">
+</a>
+
  <a href="https://github.com/AleksandrSherehkov/medicalDashBoard_backend">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleksandrSherehkov&repo=medicalDashBoard_backend&theme=react&bg_color=005499&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="medicalDashBoard_backend repository">
 </a>
