@@ -78,6 +78,7 @@
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?logo=redux&logoColor=white"></a>
     <a href="#"><img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154.svg?logo=react-query&logoColor=white"></a>
     <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245.svg?logo=react-router&logoColor=white"></a>
+    <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-323330?.svg?logo=Jest&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
