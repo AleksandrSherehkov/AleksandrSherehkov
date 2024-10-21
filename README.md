@@ -88,6 +88,7 @@
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
     <a href="#"><img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093.svg?logo=styled-components&logoColor=white"></a>
     <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB.svg?logo=material-ui&logoColor=white"></a>
+    <a href="#"><img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02.svg?logo=greensock&logoColor=white"></a>
     
   </p>
 
