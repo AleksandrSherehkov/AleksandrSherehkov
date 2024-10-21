@@ -74,6 +74,7 @@
     <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-20232a.svg?logo=vue.js&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux%20Toolkit-764ABC.svg?logo=redux&logoColor=white"></a>
+    <a href="#"><img alt="Zustand" src="https://img.shields.io/badge/Zustand-181717.svg?logo=zustand&logoColor=white"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?logo=redux&logoColor=white"></a>
     <a href="#"><img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154.svg?logo=react-query&logoColor=white"></a>
     <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245.svg?logo=react-router&logoColor=white"></a>
