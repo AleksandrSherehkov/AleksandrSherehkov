@@ -81,6 +81,7 @@
     <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-323330?.svg?logo=Jest&logoColor=white"></a>
+    <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
