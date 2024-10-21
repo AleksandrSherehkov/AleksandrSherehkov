@@ -127,6 +127,7 @@
       <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
       <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
       <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=Jira&logoColor=white"></a>
+      <a href="#"><img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2.svg?logo=linear&logoColor=white"></a>
   </p>
 <br/>
 
