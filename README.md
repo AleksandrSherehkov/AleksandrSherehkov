@@ -89,6 +89,9 @@
     <a href="#"><img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093.svg?logo=styled-components&logoColor=white"></a>
     <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB.svg?logo=material-ui&logoColor=white"></a>
     <a href="#"><img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02.svg?logo=greensock&logoColor=white"></a>
+    <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
+    <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=white"></a>
+    <a href="#"><img alt="Parcel" src="https://img.shields.io/badge/Parcel-43853D.svg?logo=parcel&logoColor=white"></a>
     
   </p>
 
