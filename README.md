@@ -22,12 +22,13 @@
 ## A little more about me...
 
 <ul>
-  <li> 👨 I'm Oleksandr Shereshkov, a 💻 Full-Stack Developer. </li>
-  <li> 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.</li>
-  <li> 🥅 2023 Goals: Contribute more to Open Source projects.</li>
-  <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
-  <li> 📚 I always learn something new to develop</li>
-  <li> 🎣 Fun fact: I am a professional in both sport feeder angling and carp fishing </li>
+  <li> 👨 I'm Oleksandr Shereshkov, a 💻 Full-Stack Software Engineer.</li>
+  <li> 👯 I’m open to collaborating on Front-end and Full Stack projects.</li>
+  <li> 🚀 Currently working on complex web applications with Next.js, Nest.js, and TypeScript.</li>
+  <li> 🎯 2025 Goals: Expand expertise in system architecture, AI, and cloud solutions.</li>
+  <li> 🔍 Actively contributing to Open Source projects and improving existing codebases.</li>
+  <li> 📚 Constantly learning and implementing best practices in software development.</li>
+  <li> 🎣 Fun fact:  I’m still a pro at feeder angling and carp fishing! </li>
   <li> 📫 How to reach me: <a href="mailto: aleksandr.shereshkov@gmail.com">aleksandr.shereshkov@gmail.com</a> </li>
 </li>
 </ul>
