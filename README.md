@@ -156,12 +156,28 @@
 <div align="center">
 <br/>    
 <img
-  src="https://streak-stats.demolab.com?user=AleksandrSherehkov&hide_border=true"
+  src="https://streak-stats.demolab.com?user=AleksandrSherehkov
+  &theme=dark
+  &hide_border=true
+  &background=0D1117
+  &ring=58A6FF
+  &fire=FF7B72
+  &currStreakNum=58A6FF
+  &sideNums=C9D1D9
+  &dates=8B949E"
 />
 <img
-  width="860"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandrSherehkov&hide_border=true&area=true"
+  src="https://streak-stats.demolab.com?user=AleksandrSherehkov
+  &theme=default
+  &hide_border=true
+  &background=FFFFFF
+  &ring=0969DA
+  &fire=FB8C00
+  &currStreakNum=0969DA
+  &sideNums=24292F
+"
 />
+
 </div>
 
 <a href="https://github.com/AleksandrSherehkov?tab=repositories&sort=stargazers">
