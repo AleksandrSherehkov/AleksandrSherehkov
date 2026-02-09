@@ -155,8 +155,8 @@
 <br/>
 <div align="center">
 <br/>    
-<img src="https://streak-stats.demolab.com?user=AleksandrSherehkov&hide_border=true" /> <img width="860" src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandrSherehkov&hide_border=true&area=true" />
-
+ <img src="https://streak-stats.demolab.com?user=AleksandrSherehkov&hide_border=true"/>
+  <img width="860" src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandrSherehkov&hide_border=true&area=true"/>
 </div>
 
 <a href="https://github.com/AleksandrSherehkov?tab=repositories&sort=stargazers">
