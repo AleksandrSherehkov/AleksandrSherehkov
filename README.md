@@ -96,8 +96,12 @@
 <h3>🗄️ Databases & ORM</h3>
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+  <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FF0000.svg?logo=typeorm&logoColor=white">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white">
+  
 </p>
 
 <h3>🐳 DevOps & Infrastructure</h3>
