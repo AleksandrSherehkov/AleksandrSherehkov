@@ -76,6 +76,8 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-20232a.svg?logo=vue.js&logoColor=%2361DAFB">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
 </p>
 
