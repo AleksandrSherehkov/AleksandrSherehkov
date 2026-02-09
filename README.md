@@ -48,6 +48,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=AleksandrSherehkov" alt="profile views">
 </div>
+
 <div align="center">
 <br/>    
 <img
@@ -57,6 +58,9 @@
   width="860"
   src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandrSherehkov&hide_border=true&area=true"
 />
+    <img src="https://img.shields.io/github/followers/AleksandrSherehkov?style=flat"/>
+<img src="https://img.shields.io/github/stars/AleksandrSherehkov?style=flat"/>
+<img src="https://img.shields.io/badge/Focus-Backend%20%26%20Security-2ea44f"/>
 </div>
 
 <br/>
