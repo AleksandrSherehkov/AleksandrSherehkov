@@ -22,12 +22,12 @@
 ## A little more about me...
 
 <ul>
-  <li> 👨 I'm Oleksandr Shereshkov, a 💻 Full-Stack Software Engineer.</li>
-  <li> 👯 I’m open to collaborating on Front-end and Full Stack projects.</li>
-  <li> 🚀 Currently working on complex web applications with Next.js, Nest.js, and TypeScript.</li>
-  <li> 🎯 2025 Goals: Expand expertise in system architecture, AI, and cloud solutions.</li>
-  <li> 🔍 Actively contributing to Open Source projects and improving existing codebases.</li>
-  <li> 📚 Constantly learning and implementing best practices in software development.</li>
+  <li> 💻 Full-Stack Software Engineer with a strong backend and system-design focus.</li>
+  <li> 🧱 Designing and building scalable monolithic systems (NestJS, PostgreSQL, Prisma).</li>
+  <li> 🔐 Deeply interested in application security, auth flows, OWASP, pentest readiness.</li>
+  <li> ⚙️ Working with Next.js, NestJS, TypeScript, Docker, Nginx, CI/CD</li>
+  <li> 🧪 Writing clean, testable code and improving legacy codebases.</li>
+  <li> 🤝 Open to collaboration on serious Front-end / Full-Stack / Backend projects</li>
   <li> 🎣 Fun fact:  I’m still a pro at feeder angling and carp fishing! </li>
   <li> 📫 How to reach me: <a href="mailto: aleksandr.shereshkov@gmail.com">aleksandr.shereshkov@gmail.com</a> </li>
 </li>
