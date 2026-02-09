@@ -50,6 +50,18 @@
 </div>
 <div align="center">
 <br/>
+    <img
+  width="860"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandrSherehkov&hide_border=true&area=true"
+/>
+    <img
+  src="https://github-profile-trophy.vercel.app/?username=AleksandrSherehkov&no-frame=true&margin-w=10&column=4"
+/>
+    <img
+  src="https://metrics.lecoq.io/AleksandrSherehkov?template=classic&isocalendar=1&languages=1&followup=1"
+  width="860"
+/>
+
 <img
   width="420"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrSherehkov&layout=compact&hide_border=true&langs_count=6"
