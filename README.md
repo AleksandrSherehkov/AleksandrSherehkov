@@ -87,16 +87,6 @@
   <a href="#"><img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154.svg?logo=react-query&logoColor=white"></a>
 </p>
 
-<h3>🧱 Backend, Architecture & Security</h3>
-<p>
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white">
-  <img alt="RBAC" src="https://img.shields.io/badge/RBAC-4B5563.svg">
-  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000.svg?logo=owasp&logoColor=white">
-  <img alt="CSRF" src="https://img.shields.io/badge/CSRF-8B0000.svg">
-</p>
-
 <h3>🧑‍💻 Backend Frameworks and Libraries</h3>
 <p>
   <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E.svg?logo=nestjs&logoColor=white"></a>
