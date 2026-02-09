@@ -49,7 +49,6 @@
 <img src="https://komarev.com/ghpvc/?username=AleksandrSherehkov" alt="profile views">
 </div>
 <br/>
-<br/>
 
 <h3>👨‍💻 Programming & Core Languages</h3>
 <p>
