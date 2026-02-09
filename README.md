@@ -79,6 +79,10 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-20232a.svg?logo=vue.js&logoColor=%2361DAFB">
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white">
+  <img alt="BEM" src="https://img.shields.io/badge/BEM-black.svg?logo=bem&logoColor=white">
 </p>
 
 <h3>🔄 State & Data Management</h3>
