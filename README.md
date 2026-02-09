@@ -166,7 +166,8 @@
 />
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrSherehkov&layout=compact&langs_count=6&hide_border=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrSherehkov&layout=compact&langs_count=6&hide_border=true)
+
 
 <a href="https://github.com/AleksandrSherehkov?tab=repositories&sort=stargazers">
   <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
