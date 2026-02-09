@@ -153,6 +153,7 @@
   <a href="#"><img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2.svg?logo=linear&logoColor=white"></a>
 </p>
 <br/>
+### 📊 Activity & Contributions
 <div align="center">
 <br/>    
 <img
