@@ -60,8 +60,7 @@
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrSherehkov&layout=compact&hide_border=true"
 />
-
-    <img
+<img
   width="860"
   src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandrSherehkov&hide_border=true&area=true"
 />
