@@ -163,6 +163,10 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandrSherehkov&hide_border=true&area=true"
 />
 </div>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/AleksandrSherehkov?style=flat&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/AleksandrSherehkov?style=flat&label=Total%20Stars"/>
+</div>
 
 <br/>
 <br/>
