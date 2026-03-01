@@ -6,6 +6,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Engineer." alt="Typing SVG" /></a></h3>
 
 <div id="badges">
+    
     <p align="center">
         <a href="https://www.linkedin.com/in/aleksandr-shereshkov/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
         <a href="mailto:aleksandr.shereshkov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge">
