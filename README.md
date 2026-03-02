@@ -4,7 +4,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Engineer." alt="Typing SVG" /></a></h3>
-
 <div id="badges">
     
     <p align="center">
