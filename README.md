@@ -30,9 +30,9 @@
   <li> 🤝 Open to collaboration on serious Front-end / Full-Stack / Backend projects</li>
   <li> 🎣 Fun fact:  I’m still a pro at feeder angling and carp fishing! </li>
   <li> 📫 How to reach me: <a href="mailto: aleksandr.shereshkov@gmail.com">aleksandr.shereshkov@gmail.com</a> </li>
-</li>
+
 </ul>
-</div>
+
 
 <div align="center">
 
