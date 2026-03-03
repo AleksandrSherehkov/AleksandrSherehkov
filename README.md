@@ -18,7 +18,7 @@
 <div>
 <img align="right" width="430" src="./image/full2.gif" />
 <br/>
-
+</div>
 ## A little more about me...
 
 <ul>
