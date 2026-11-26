@@ -1,18 +1,16 @@
 <!-- Aleksandr Shereshkov | Engineering portfolio -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B1220,55:163653,100:075E63&amp;height=150&amp;section=header&amp;text=Aleksandr%20Shereshkov&amp;fontSize=42&amp;fontColor=F0F6FC&amp;fontAlignY=36&amp;desc=FULL-STACK%20SOFTWARE%20ENGINEER&amp;descSize=17&amp;descAlignY=68" alt="Aleksandr Shereshkov — Full-Stack Software Engineer" />
-  <p>
-    <picture>
+  <img width="100%" src="./assets/engineering-banner.svg" alt="Aleksandr Shereshkov — Full-Stack Software Engineer" />
+  <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=2600&amp;pause=1900&amp;center=true&amp;vCenter=true&amp;width=690&amp;height=40&amp;repeat=true&amp;lines=%3E+Building+secure+systems.%3B%3E+Designing+reliable+backend+APIs.%3B%3E+Engineering+with+AI.%3B%3E+Human+judgment.+Verified+code.&amp;color=5EEAD4" />
       <img width="690" height="40" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=2600&amp;pause=1900&amp;center=true&amp;vCenter=true&amp;width=690&amp;height=40&amp;repeat=true&amp;lines=%3E+Building+secure+systems.%3B%3E+Designing+reliable+backend+APIs.%3B%3E+Engineering+with+AI.%3B%3E+Human+judgment.+Verified+code.&amp;color=0969DA" alt="Building secure systems. Designing reliable backend APIs. Engineering with AI. Human judgment. Verified code." />
-    </picture>
-  </p>
+  </picture>
   <h3>Backend Architecture · Application Security · AI-Assisted Engineering</h3>
-  <p>Building secure web applications, reliable APIs, and developer tools.<br/>Ukraine 🇺🇦 · Remote collaboration</p>
+  <p>Building secure web applications, reliable APIs, and developer tools.<br/>Ukraine · Remote collaboration</p>
   <a href="https://www.linkedin.com/in/aleksandr-shereshkov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aleksandr.shereshkov@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
   <a href="https://t.me/Alexander_Shereshkov"><img src="https://img.shields.io/badge/Telegram-167DA5?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
-  <p><a href="#selected-projects">Projects</a> · <a href="#ai-assisted-engineering">AI workflow</a> · <a href="#technology-stack">Tech stack</a> · <a href="#github-activity">GitHub activity</a></p>
+  <p><a href="#technology-stack">Tech stack</a> · <a href="#selected-projects">Projects</a> · <a href="#ai-assisted-engineering">AI workflow</a> · <a href="#github-activity">GitHub activity</a></p>
 </div>
 
 ## About
@@ -47,6 +45,62 @@ I'm a **Full-Stack Software Engineer** with a strong backend and system-design f
 </table>
 
 > I use AI to accelerate engineering, not to outsource engineering judgment. Correctness, security, and maintainability remain the priorities.
+
+## Technology stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Frontend &amp; UI</h3>
+      <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux&amp;perline=5" alt="React, Next.js, TypeScript, Tailwind CSS, Redux" />
+      <p>React · Next.js · Tailwind CSS · Styled Components · Radix UI</p>
+      <p><strong>State &amp; data:</strong> Redux Toolkit · RTK Query · TanStack Query · Zustand</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend &amp; APIs</h3>
+      <img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,js&amp;perline=5" alt="Node.js, NestJS, Express, Prisma, JavaScript" />
+      <p>Node.js · NestJS · Express.js · REST APIs · TypeScript</p>
+      <p><strong>Data access:</strong> Prisma · TypeORM · Mongoose</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Databases &amp; Storage</h3>
+      <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&amp;perline=4" alt="PostgreSQL, MySQL, MongoDB, Redis" />
+      <p>PostgreSQL · MySQL · MariaDB · MongoDB · Redis</p>
+      <p><strong>Core:</strong> SQL · relational modeling · constraints · transactions</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Infrastructure &amp; Delivery</h3>
+      <img height="40" src="https://skillicons.dev/icons?i=docker,nginx,linux,git,githubactions&amp;perline=5" alt="Docker, Nginx, Linux, Git, GitHub Actions" />
+      <p>Docker · Docker Compose · Nginx · Linux</p>
+      <p><strong>Delivery:</strong> Git · GitHub Actions · CI/CD · Bash</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Testing &amp; Quality</h3>
+      <img height="40" src="https://skillicons.dev/icons?i=jest,postman&amp;perline=2" alt="Jest, Postman" />
+      <p>Jest · Supertest · Postman · ESLint · Prettier</p>
+      <p><strong>Practices:</strong> integration testing · regression checks · code review</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Security &amp; Reliability</h3>
+      <img src="https://img.shields.io/badge/JWT-334155?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/OWASP-334155?style=flat-square&amp;logo=owasp&amp;logoColor=white" alt="OWASP" />
+      <img src="https://img.shields.io/badge/RBAC-334155?style=flat-square" alt="RBAC" />
+      <p>Token rotation · session management · CSRF protection</p>
+      <p><strong>Practices:</strong> rate limiting · replay protection · threat modeling</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>Additional technologies &amp; tools</b></summary>
+  <br/>
+  <img height="40" src="https://skillicons.dev/icons?i=vue,html,css,sass,vercel,vscode&amp;perline=6" alt="Vue, HTML, CSS, Sass, Vercel, VS Code" />
+  <p>Vue.js · React Native · HTML5 · CSS3 · Sass · Framer Motion · GSAP · Vercel · VS Code</p>
+</details>
 
 ## Selected projects
 
@@ -126,62 +180,6 @@ flowchart LR
 **Beyond coding assistance:** I evaluate Qwen, Gemma, and TranslateGemma on domain-specific translation tasks, checking output quality, terminology consistency, and resource-format preservation.
 
 **Quality gates:** review diffs · verify behavior · test regressions · check security boundaries · protect sensitive data.
-
-## Technology stack
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Frontend &amp; UI</h3>
-      <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux&amp;perline=5" alt="React, Next.js, TypeScript, Tailwind CSS, Redux" />
-      <p>React · Next.js · Tailwind CSS · Styled Components · Radix UI</p>
-      <p><strong>State &amp; data:</strong> Redux Toolkit · RTK Query · TanStack Query · Zustand</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Backend &amp; APIs</h3>
-      <img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,js&amp;perline=5" alt="Node.js, NestJS, Express, Prisma, JavaScript" />
-      <p>Node.js · NestJS · Express.js · REST APIs · TypeScript</p>
-      <p><strong>Data access:</strong> Prisma · TypeORM · Mongoose</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Databases &amp; Storage</h3>
-      <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&amp;perline=4" alt="PostgreSQL, MySQL, MongoDB, Redis" />
-      <p>PostgreSQL · MySQL · MariaDB · MongoDB · Redis</p>
-      <p><strong>Core:</strong> SQL · relational modeling · constraints · transactions</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Infrastructure &amp; Delivery</h3>
-      <img height="40" src="https://skillicons.dev/icons?i=docker,nginx,linux,git,githubactions&amp;perline=5" alt="Docker, Nginx, Linux, Git, GitHub Actions" />
-      <p>Docker · Docker Compose · Nginx · Linux</p>
-      <p><strong>Delivery:</strong> Git · GitHub Actions · CI/CD · Bash</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Testing &amp; Quality</h3>
-      <img height="40" src="https://skillicons.dev/icons?i=jest,postman&amp;perline=2" alt="Jest, Postman" />
-      <p>Jest · Supertest · ESLint · Prettier</p>
-      <p><strong>Practices:</strong> integration testing · regression checks · code review</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Security &amp; Reliability</h3>
-      <img src="https://img.shields.io/badge/JWT-334155?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
-      <img src="https://img.shields.io/badge/OWASP-334155?style=flat-square&amp;logo=owasp&amp;logoColor=white" alt="OWASP" />
-      <img src="https://img.shields.io/badge/RBAC-334155?style=flat-square" alt="RBAC" />
-      <p>Token rotation · session management · CSRF protection</p>
-      <p><strong>Practices:</strong> rate limiting · replay protection · threat modeling</p>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><b>Additional technologies &amp; tools</b></summary>
-  <br/>
-  <img height="40" src="https://skillicons.dev/icons?i=vue,html,css,sass,vercel,vscode&amp;perline=6" alt="Vue, HTML, CSS, Sass, Vercel, VS Code" />
-  <p>Vue.js · React Native · HTML5 · CSS3 · Sass · Framer Motion · GSAP · Vercel · VS Code</p>
-</details>
 
 ## GitHub activity
 

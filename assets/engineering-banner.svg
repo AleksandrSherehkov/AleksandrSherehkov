@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="212" viewBox="0 0 1000 212" role="img" aria-labelledby="title desc">
+  <title id="title">Aleksandr Shereshkov — Full-Stack Software Engineer</title>
+  <desc id="desc">Engineering portfolio banner with an abstract full-stack architecture diagram and a human review and verification loop.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#0A101D"/><stop offset=".62" stop-color="#102438"/><stop offset="1" stop-color="#0B343B"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#609CFF"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#A4C5DB" stroke-opacity=".065"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#158A98" stop-opacity=".26"/><stop offset="1" stop-color="#158A98" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x=".5" y=".5" width="999" height="211" rx="12" fill="url(#bg)" stroke="#2B485F"/>
+  <rect x="1" y="1" width="998" height="210" rx="11" fill="url(#grid)"/>
+  <ellipse cx="817" cy="104" rx="181" ry="100" fill="url(#glow)"/>
+  <path d="M25 18H45 M18 25V45 M955 194H975 M982 187V167" stroke="#5EEAD4" stroke-width="1.5" opacity=".65" fill="none"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <circle cx="38" cy="36" r="3.5" fill="#5EEAD4"/><text x="51" y="40" font-size="11" font-weight="600" letter-spacing="1.4" fill="#9CC9DB">ENGINEERING PORTFOLIO / UA</text>
+    <text x="36" y="181" fill="#A4BED3" font-size="11.5" letter-spacing=".35">DESIGN WITH INTENT</text><text x="169" y="181" fill="#52778C" font-size="11.5">/</text><text x="184" y="181" fill="#A4BED3" font-size="11.5" letter-spacing=".35">VERIFY WITH EVIDENCE</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="34" y="96" font-size="43" font-weight="700" letter-spacing="-1.25" fill="#F1F5F9">Aleksandr Shereshkov</text>
+    <text x="37" y="128" font-size="18" font-weight="600" letter-spacing="1.25" fill="#A5E4E6">FULL-STACK SOFTWARE ENGINEER</text>
+  </g>
+  <path d="M37 147H543" stroke="url(#accent)" stroke-width="2" opacity=".8"/>
+  <path d="M605 30V182" stroke="#486278" opacity=".55" stroke-dasharray="3 5"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.5" font-weight="600">
+    <text x="636" y="35" fill="#83B2C8" letter-spacing="1.15">SYSTEMS / WORKFLOW</text>
+    <g fill="none" stroke="#6196B6" stroke-width="1.4" opacity=".85"><path d="M720 76H751 M839 76H870"/><path d="M746 72L751 76L746 80 M865 72L870 76L865 80"/><path d="M795 95V113H679V133 M795 113H915V133"/><path d="M675 128L679 133L683 128 M911 128L915 133L919 128"/><path d="M720 151H870" stroke-dasharray="4 4"/><path d="M865 147L870 151L865 155"/></g>
+    <g fill="#101E30" stroke="#476F96"><rect x="636" y="57" width="84" height="38" rx="5"/><rect x="751" y="57" width="88" height="38" rx="5"/><rect x="870" y="57" width="90" height="38" rx="5"/></g>
+    <g fill="#DCEAF7" text-anchor="middle"><text x="678" y="80">UI</text><text x="795" y="80">API</text><text x="915" y="80">DATA</text></g>
+    <rect x="636" y="133" width="84" height="36" rx="5" fill="#102E38" stroke="#48B6BB"/><rect x="870" y="133" width="90" height="36" rx="5" fill="#102E38" stroke="#48B6BB"/>
+    <g fill="#92EEE0" text-anchor="middle"><text x="678" y="155">AI ASSIST</text><text x="915" y="155">VERIFY</text></g>
+    <rect x="753" y="143" width="84" height="16" rx="3" fill="#102C38"/><text x="795" y="154" text-anchor="middle" font-size="9" fill="#99C9D6">HUMAN REVIEW</text>
+  </g>
+</svg>
