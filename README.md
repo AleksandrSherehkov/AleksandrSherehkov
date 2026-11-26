@@ -51,26 +51,28 @@ I'm a **Full-Stack Software Engineer** with a strong backend and system-design f
     <td width="50%" valign="top">
       <h3>Frontend &amp; UI</h3>
       <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux&amp;perline=5" alt="React, Next.js, TypeScript, Tailwind CSS, Redux" />
-      <p>React · Next.js · Tailwind CSS · Styled Components · Radix UI</p>
+      <br/><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=styledcomponents,radix,reactquery,zustand&amp;theme=dark" alt="Styled Components, Radix UI, TanStack Query, Zustand" />
+      <p>React · Next.js · TypeScript · Tailwind CSS · Styled Components · Radix UI</p>
       <p><strong>State &amp; data:</strong> Redux Toolkit · RTK Query · TanStack Query · Zustand</p>
     </td>
     <td width="50%" valign="top">
       <h3>Backend &amp; APIs</h3>
-      <img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,js&amp;perline=5" alt="Node.js, NestJS, Express, Prisma, JavaScript" />
-      <p>Node.js · NestJS · Express.js · REST APIs · TypeScript</p>
+      <img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js&amp;perline=5" alt="Node.js, NestJS, Express, TypeScript, JavaScript" />
+      <br/><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=prisma,typeorm,mongoose&amp;theme=dark" alt="Prisma, TypeORM, Mongoose" />
+      <p>Node.js · NestJS · Express.js · REST APIs · TypeScript · JavaScript</p>
       <p><strong>Data access:</strong> Prisma · TypeORM · Mongoose</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Databases &amp; Storage</h3>
-      <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&amp;perline=4" alt="PostgreSQL, MySQL, MongoDB, Redis" />
+      <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,mongodb,redis&amp;theme=dark" alt="PostgreSQL, MySQL, MariaDB, MongoDB, Redis" />
       <p>PostgreSQL · MySQL · MariaDB · MongoDB · Redis</p>
       <p><strong>Core:</strong> SQL · relational modeling · constraints · transactions</p>
     </td>
     <td width="50%" valign="top">
       <h3>Infrastructure &amp; Delivery</h3>
-      <img height="40" src="https://skillicons.dev/icons?i=docker,nginx,linux,git,githubactions&amp;perline=5" alt="Docker, Nginx, Linux, Git, GitHub Actions" />
+      <img height="40" src="https://skillicons.dev/icons?i=docker,nginx,linux,git,githubactions,bash&amp;perline=6" alt="Docker, Nginx, Linux, Git, GitHub Actions, Bash" />
       <p>Docker · Docker Compose · Nginx · Linux</p>
       <p><strong>Delivery:</strong> Git · GitHub Actions · CI/CD · Bash</p>
     </td>
@@ -78,7 +80,8 @@ I'm a **Full-Stack Software Engineer** with a strong backend and system-design f
   <tr>
     <td width="50%" valign="top">
       <h3>Testing &amp; Quality</h3>
-      <img height="40" src="https://skillicons.dev/icons?i=jest,postman&amp;perline=2" alt="Jest, Postman" />
+      <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=jest,postman,eslint,prettier&amp;theme=dark" alt="Jest, Postman, ESLint, Prettier" />
+      <br/><img src="https://img.shields.io/badge/Supertest-334155?style=flat-square" alt="Supertest" />
       <p>Jest · Supertest · Postman · ESLint · Prettier</p>
       <p><strong>Practices:</strong> integration testing · regression checks · code review</p>
     </td>
@@ -87,7 +90,9 @@ I'm a **Full-Stack Software Engineer** with a strong backend and system-design f
       <img src="https://img.shields.io/badge/JWT-334155?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
       <img src="https://img.shields.io/badge/OWASP-334155?style=flat-square&amp;logo=owasp&amp;logoColor=white" alt="OWASP" />
       <img src="https://img.shields.io/badge/RBAC-334155?style=flat-square" alt="RBAC" />
-      <p>Token rotation · session management · CSRF protection</p>
+      <img src="https://img.shields.io/badge/CSRF-334155?style=flat-square" alt="CSRF" />
+      <img src="https://img.shields.io/badge/HMAC-334155?style=flat-square" alt="HMAC" />
+      <p>Token rotation · session management · CSRF protection · HMAC</p>
       <p><strong>Practices:</strong> rate limiting · replay protection · threat modeling</p>
     </td>
   </tr>
@@ -97,6 +102,7 @@ I'm a **Full-Stack Software Engineer** with a strong backend and system-design f
   <summary><b>Additional technologies &amp; tools</b></summary>
   <br/>
   <img height="40" src="https://skillicons.dev/icons?i=vue,html,css,sass,vercel,vscode&amp;perline=6" alt="Vue, HTML, CSS, Sass, Vercel, VS Code" />
+  <br/><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,gsap&amp;theme=dark" alt="React Native, GSAP" />
   <p>Vue.js · React Native · HTML5 · CSS3 · Sass · Framer Motion · GSAP · Vercel · VS Code</p>
 </details>
 
