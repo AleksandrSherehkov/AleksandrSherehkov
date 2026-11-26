@@ -1,179 +1,169 @@
-<h1 align="center">𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺
-<a href="https://www.linkedin.com/in/aleksandr-shereshkov/" target="_blank">𝐎𝐥𝐞𝐤𝐬𝐚𝐧𝐝𝐫</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Engineer." alt="Typing SVG" /></a></h3>
-<div id="badges">
-<p align="center">
-<a href="https://www.linkedin.com/in/aleksandr-shereshkov/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:aleksandr.shereshkov@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
-</a>
-
-<a href="https://t.me/Alexander_Shereshkov">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
-</a>
-</p>
+<!-- ==================== PROFILE HERO ==================== -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:183B66,100:0D665F&amp;height=210&amp;section=header&amp;text=Aleksandr%20Shereshkov&amp;fontSize=42&amp;fontColor=F0F6FC&amp;fontAlignY=38&amp;desc=FULL-STACK%20SOFTWARE%20ENGINEER&amp;descSize=16&amp;descAlignY=58" alt="Aleksandr Shereshkov — Full-Stack Software Engineer" />
+  <h2>Full-Stack Software Engineer</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Backend+Architecture+%26+System+Design;Security-First+Software+Engineering;AI-Assisted+Development+%26+Automation;Building+Reliable+Software+That+Lasts" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1200&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Backend+Architecture+%26+System+Design;Security-First+Software+Engineering;AI-Assisted+Development+%26+Automation;Building+Reliable+Software+That+Lasts" alt="Backend architecture, application security and AI-assisted engineering" />
+  </picture>
+  <p><strong>TypeScript · Node.js · NestJS · React · Next.js · PostgreSQL</strong></p>
+  <p>Based in Ukraine 🇺🇦 · Remote collaboration</p>
+  <a href="https://www.linkedin.com/in/aleksandr-shereshkov/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aleksandr.shereshkov@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/Alexander_Shereshkov"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
 </div>
-<div>
-<img align="right" width="430" src="./image/full2.gif" />
-<br/>
-</div>
-## A little more about me...
 
-<ul>
-  <li> 💻 Full-Stack Software Engineer with a strong backend and system-design focus.</li>
-  <li> 🧱 Designing and building scalable monolithic systems (NestJS, PostgreSQL, Prisma).</li>
-  <li> 🔐 Deeply interested in application security, auth flows, OWASP, pentest readiness.</li>
-  <li> ⚙️ Working with Next.js, NestJS, TypeScript, Docker, Nginx, CI/CD</li>
-  <li> 🧪 Writing clean, testable code and improving legacy codebases.</li>
-  <li> 🤝 Open to collaboration on serious Front-end / Full-Stack / Backend projects</li>
-  <li> 🎣 Fun fact:  I’m still a pro at feeder angling and carp fishing! </li>
-  <li> 📫 How to reach me: <a href="mailto: aleksandr.shereshkov@gmail.com">aleksandr.shereshkov@gmail.com</a> </li>
+---
 
-</ul>
+## 👋 About me
 
+I'm a **Full-Stack Software Engineer** with a strong backend and system-design focus. I build secure, maintainable web applications and backend services, combining modern TypeScript development with pragmatic architecture, automated quality checks, and AI-assisted engineering workflows.
+
+My work spans the full development lifecycle: requirements analysis, architecture, implementation, testing, deployment, and continuous improvement. I'm particularly interested in authentication and authorization, resilient APIs, data integrity, and developer productivity.
+
+> **My engineering philosophy:** keep systems as simple as possible, make security a design decision, validate assumptions with tests, and use AI to amplify engineering judgment — not replace it.
+
+## ◈ Engineering focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Full-Stack Engineering</h3>
+      Type-safe web applications, accessible interfaces, reusable components, API integration, and predictable state management.
+      <br/><br/><code>React</code> <code>Next.js</code> <code>TypeScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Backend &amp; Architecture</h3>
+      Modular services, REST APIs, domain boundaries, database design, transactions, caching, and architecture trade-offs.
+      <br/><br/><code>NestJS</code> <code>Node.js</code> <code>PostgreSQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / Application Security</h3>
+      Defense-in-depth authentication, authorization, secure session management, token rotation, abuse prevention, and OWASP-aligned practices.
+      <br/><br/><code>JWT</code> <code>RBAC</code> <code>CSRF</code> <code>Rate Limiting</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / AI-Assisted Engineering</h3>
+      Agent-assisted implementation, technical research, code review, test generation, structured translation pipelines, and LLM evaluation.
+      <br/><br/><code>Codex</code> <code>Claude</code> <code>Local LLMs</code>
+    </td>
+  </tr>
+</table>
+
+## ⚡ AI-assisted software engineering
 
 <div align="center">
-
-<br/>
-<a  href="https://www.codewars.com/users/AleksandrSherehkov">
-  <img src="https://www.codewars.com/users/AleksandrSherehkov/badges/large" alt="Codewars">
-</a>
+  <img src="https://img.shields.io/badge/OpenAI-Codex-101828?style=for-the-badge" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-ChatGPT-0D665F?style=for-the-badge" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Local-LLMs-3448A5?style=for-the-badge" alt="Local LLMs" />
 </div>
-<div align="center">
-<br/>
-<a href="http://monip.org">
-  <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website status">
-</a>
-<img src="https://komarev.com/ghpvc/?username=AleksandrSherehkov" alt="profile views">
-</div>
-<br/>
 
-<h3>👨‍💻 Programming & Core Languages</h3>
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-</p>
+I use AI as part of a disciplined engineering workflow — from architecture exploration and task decomposition to implementation, review, and verification.
 
-<h3>🧱 Backend, Architecture & Security</h3>
-<p>
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white">
-  <img alt="RBAC" src="https://img.shields.io/badge/RBAC-4B5563.svg">
-  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000.svg?logo=owasp&logoColor=white">
-  <img alt="CSRF" src="https://img.shields.io/badge/CSRF-8B0000.svg">
-</p>
+| Engineering stage | How I use AI |
+| :--- | :--- |
+| **Discovery & Design** | Requirements analysis, architecture alternatives, technical specifications, risk assessment |
+| **Implementation** | Agent-assisted development, incremental changes, refactoring, documentation |
+| **Verification** | Test generation, regression analysis, security review, edge-case discovery |
+| **Delivery** | Pull request review, CI feedback, troubleshooting, release preparation |
+| **LLM Evaluation** | Comparing Qwen, Gemma, and TranslateGemma on domain-specific translation tasks |
 
-<h3>⚙️ Frontend</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-20232a.svg?logo=vue.js&logoColor=%2361DAFB">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a.svg?logo=react&logoColor=%2361DAFB">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
-  <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white">
-  <img alt="BEM" src="https://img.shields.io/badge/BEM-black.svg?logo=bem&logoColor=white">
-</p>
+```text
+Requirements → Design → Agent-assisted implementation → Human review
+     ↑                                                      ↓
+     └──────── Feedback ← CI checks ← Tests ← Verification ─┘
+```
 
-<h3>🔄 State & Data Management</h3>
-<p>
-  <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-764ABC.svg?logo=redux&logoColor=white">
-  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-181717.svg">
-  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack_Query-FF4154.svg">
-</p>
+**Quality gates:** review generated changes, verify behavior with tests, protect sensitive data, and keep humans accountable for architectural and security decisions.
 
-
-<h3>🗄️ Databases & ORM</h3>
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-  <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FF0000.svg?logo=typeorm&logoColor=white">
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white">
-  
-</p>
-
-<h3>🐳 DevOps & Infrastructure</h3>
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker_Compose-2496ED.svg?logo=docker&logoColor=white">
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
-</p>
-
-<h3>🧪 Testing & Quality</h3>
-<p>
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-323330.svg?logo=jest&logoColor=white">
-  <img alt="Supertest" src="https://img.shields.io/badge/Supertest-000000.svg">
-  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?logo=eslint&logoColor=white">
-</p>
-
-<h3>🧰 Tools</h3>
-<p>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white">
-</p>
-
-<h3>☁️ Cloud Hosting</h3>
-<p>
-  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
-  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-  <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
-  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?.svg?logo=google-cloud&logoColor=white"></a>
-</p>
-
-<h3>🔧 Software and Tools</h3>
-<p>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED.svg?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-  <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
-  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
-  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=Jira&logoColor=white"></a>
-  <a href="#"><img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2.svg?logo=linear&logoColor=white"></a>
-</p>
-<br/>
+## 🧰 Technology stack
 
 <div align="center">
-<br/>    
-<img
-  src="https://streak-stats.demolab.com?user=AleksandrSherehkov&theme=dark&hide_border=true"
-/>
-
-<img
-  width="860"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandrSherehkov&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FF7B72"
-/>
-
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,postgres,redis,docker,git,githubactions,linux&amp;perline=6" alt="Core technology stack: TypeScript, JavaScript, Node.js, NestJS, React, Next.js, PostgreSQL, Redis, Docker, Git, GitHub Actions, Linux" />
 </div>
-<div align="center">
-<a href="https://github.com/AleksandrSherehkov?tab=repositories&sort=stargazers">
-  <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-</a>
+
 <br/>
+
+| Domain | Technologies & practices |
+| :--- | :--- |
+| **Core** | TypeScript, JavaScript, Node.js, SQL, Bash |
+| **Backend** | NestJS, Express.js, REST APIs, modular architecture, validation, background jobs |
+| **Frontend** | React, Next.js, Tailwind CSS, Styled Components, Radix UI, HTML5, CSS3, Sass |
+| **State & Data** | Redux Toolkit, RTK Query, TanStack Query, Zustand |
+| **Databases & ORM** | PostgreSQL, MySQL, MariaDB, MongoDB, Redis, Prisma, TypeORM, Mongoose |
+| **Security** | JWT, RBAC, session lifecycle, token rotation, CSRF protection, throttling, OWASP |
+| **Infrastructure & CI/CD** | Docker, Docker Compose, Nginx, Linux, GitHub Actions, Git |
+| **Testing & Quality** | Jest, Supertest, integration testing, ESLint, Prettier, code review |
+| **AI & Developer Tooling** | OpenAI Codex, Claude, ChatGPT, LLM evaluation, prompt design, CLI automation |
+| **Additional experience** | Vue.js, React Native, Framer Motion, GSAP, Vercel, Postman |
+
+## ◈ Selected engineering projects
+
+### 🔐 Authentication & session management
+
+[![Public repository](https://img.shields.io/badge/GitHub-mud--state--backend-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AleksandrSherehkov/mud-state-backend)
+
+A backend project focused on reusable authentication, authorization, and session lifecycle management. Designed with security, maintainability, and clear service boundaries in mind.
+
+- JWT access and refresh token flows, rotation and reuse detection.
+- Session management, role-based access control, throttling, and CSRF defenses.
+- Database-backed security state and Redis-assisted abuse prevention.
+
+`NestJS` · `TypeScript` · `Prisma` · `PostgreSQL` · `Redis` · `Docker`
+
+### 🌐 AI-assisted localization & developer tooling
+
+![Private project](https://img.shields.io/badge/Project-Private-64748B?style=flat-square&logo=github&logoColor=white)
+
+A domain-specific localization pipeline focused on translation consistency, structured resource integrity, reproducible processing, and human review.
+
+- Terminology discovery, glossary management, validation, and review workflows.
+- Checkpoint/resume support, preflight checks, and controlled application of changes.
+- Cross-platform automated testing and evaluation of multiple LLMs.
+
+`TypeScript` · `LLMs` · `CLI` · `GitHub Actions` · `Automated Testing`
+
+### 📄 Document generation & processing
+
+![Project work](https://img.shields.io/badge/Project-Engineering%20Work-64748B?style=flat-square)
+
+Backend services for transforming structured business data into HTML and PDF documents, with a focus on input validation, reliable processing, and maintainable integrations.
+
+`Node.js` · `TypeScript` · `JSON` · `HTML` · `PDF`
+
+<div align="center">
+  <a href="https://github.com/AleksandrSherehkov?tab=repositories"><img src="https://img.shields.io/badge/Explore_Public_Repositories-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore public repositories" /></a>
 </div>
 
+## 📊 GitHub activity
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AleksandrSherehkov&amp;hide_border=true&amp;area=true&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=58A6FF&amp;point=2DD4BF" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandrSherehkov&amp;hide_border=true&amp;area=true&amp;bg_color=FFFFFF&amp;color=24292F&amp;line=0969DA&amp;point=0D9488" alt="GitHub contribution activity graph" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AleksandrSherehkov&amp;theme=github-dark-blue&amp;hide_border=true" />
+    <img width="495" src="https://streak-stats.demolab.com?user=AleksandrSherehkov&amp;theme=default&amp;hide_border=true" alt="GitHub contribution streak" />
+  </picture>
+</div>
 
+<details>
+  <summary><strong>More about me &amp; coding practice</strong></summary>
+  <br/>
+  <a href="https://www.codewars.com/users/AleksandrSherehkov"><img src="https://www.codewars.com/users/AleksandrSherehkov/badges/large" alt="Codewars profile" /></a>
+  <p>Outside software engineering, I enjoy feeder angling and carp fishing — another pursuit that rewards patience, precision, and continuous improvement.</p>
+</details>
+
+---
+
+<div align="center">
+  <h2>Let's build reliable software.</h2>
+  <p>Interested in full-stack engineering, backend architecture, application security, and AI-enabled development.</p>
+  <a href="https://www.linkedin.com/in/aleksandr-shereshkov/">LinkedIn</a> · <a href="mailto:aleksandr.shereshkov@gmail.com">Email</a> · <a href="https://t.me/Alexander_Shereshkov">Telegram</a>
+  <br/><br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:183B66,100:0D665F&amp;height=95&amp;section=footer" alt="" />
+</div>
