@@ -1,16 +1,14 @@
 <!-- Aleksandr Shereshkov | Engineering portfolio -->
 <div align="center">
   <img width="100%" src="./assets/engineering-banner.svg" alt="Aleksandr Shereshkov — Full-Stack Software Engineer" />
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=2600&amp;pause=1900&amp;center=true&amp;vCenter=true&amp;width=690&amp;height=40&amp;repeat=true&amp;lines=%3E+Building+secure+systems.%3B%3E+Designing+reliable+backend+APIs.%3B%3E+Engineering+with+AI.%3B%3E+Human+judgment.+Verified+code.&amp;color=5EEAD4" />
-      <img width="690" height="40" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=2600&amp;pause=1900&amp;center=true&amp;vCenter=true&amp;width=690&amp;height=40&amp;repeat=true&amp;lines=%3E+Building+secure+systems.%3B%3E+Designing+reliable+backend+APIs.%3B%3E+Engineering+with+AI.%3B%3E+Human+judgment.+Verified+code.&amp;color=0969DA" alt="Building secure systems. Designing reliable backend APIs. Engineering with AI. Human judgment. Verified code." />
-  </picture>
-  <h3>Backend Architecture · Application Security · AI-Assisted Engineering</h3>
-  <p>Building secure web applications, reliable APIs, and developer tools.<br/>Ukraine · Remote collaboration</p>
+  <p><img width="760" src="./assets/engineering-signature.svg" alt="Engineering signature: secure systems, reliable APIs, AI-assisted engineering, and verified code" /></p>
+  <p><strong>Backend Architecture · Application Security · AI-Assisted Engineering</strong></p>
+  <p>Building secure web applications, reliable APIs, and developer tools.</p>
+  <p><sub>🇺🇦 Ukraine · Remote collaboration</sub></p>
   <a href="https://www.linkedin.com/in/aleksandr-shereshkov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aleksandr.shereshkov@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
   <a href="https://t.me/Alexander_Shereshkov"><img src="https://img.shields.io/badge/Telegram-167DA5?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
-  <p><a href="#technology-stack">Tech stack</a> · <a href="#selected-projects">Projects</a> · <a href="#ai-assisted-engineering">AI workflow</a> · <a href="#github-activity">GitHub activity</a></p>
+  <p><a href="#technology-stack">Tech stack</a> · <a href="#ai-assisted-engineering">AI workflow</a> · <a href="#selected-projects">Projects</a> · <a href="#github-activity">GitHub activity</a></p>
 </div>
 
 ## About
@@ -102,6 +100,30 @@ I'm a **Full-Stack Software Engineer** with a strong backend and system-design f
   <p>Vue.js · React Native · HTML5 · CSS3 · Sass · Framer Motion · GSAP · Vercel · VS Code</p>
 </details>
 
+## AI-assisted engineering
+
+<p align="center">
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI_Codex-182C49?style=for-the-badge" alt="OpenAI Codex" /></a>
+  <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Anthropic Claude" /></a>
+  <a href="https://chatgpt.com/"><img src="https://img.shields.io/badge/ChatGPT-0D665F?style=for-the-badge" alt="ChatGPT" /></a>
+  <img src="https://img.shields.io/badge/Local_LLMs-475569?style=for-the-badge" alt="Local LLMs" />
+</p>
+
+My workflow combines AI coding agents with explicit technical specifications, scoped changes, human review, and automated verification.
+
+```mermaid
+flowchart LR
+    A["Specify & design"] --> B["Agent-assisted code"]
+    B --> C["Human review"]
+    C --> D["Tests & CI"]
+    D --> E["Delivery"]
+    D -. Feedback .-> B
+```
+
+**Beyond coding assistance:** I evaluate Qwen, Gemma, and TranslateGemma on domain-specific translation tasks, checking output quality, terminology consistency, and resource-format preservation.
+
+**Quality gates:** review diffs · verify behavior · test regressions · check security boundaries · protect sensitive data.
+
 ## Selected projects
 
 ### 01 · Authentication & session management
@@ -156,30 +178,6 @@ Backend services that transform structured business data into HTML and PDF docum
 `Node.js` · `TypeScript` · `JSON` · `HTML` · `PDF`
 
 [Browse public repositories →](https://github.com/AleksandrSherehkov?tab=repositories)
-
-## AI-assisted engineering
-
-<p align="center">
-  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI_Codex-182C49?style=for-the-badge" alt="OpenAI Codex" /></a>
-  <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Anthropic Claude" /></a>
-  <a href="https://chatgpt.com/"><img src="https://img.shields.io/badge/ChatGPT-0D665F?style=for-the-badge" alt="ChatGPT" /></a>
-  <img src="https://img.shields.io/badge/Local_LLMs-475569?style=for-the-badge" alt="Local LLMs" />
-</p>
-
-My workflow combines AI coding agents with explicit technical specifications, scoped changes, human review, and automated verification.
-
-```mermaid
-flowchart LR
-    A["Specify & design"] --> B["Agent-assisted code"]
-    B --> C["Human review"]
-    C --> D["Tests & CI"]
-    D --> E["Delivery"]
-    D -. Feedback .-> B
-```
-
-**Beyond coding assistance:** I evaluate Qwen, Gemma, and TranslateGemma on domain-specific translation tasks, checking output quality, terminology consistency, and resource-format preservation.
-
-**Quality gates:** review diffs · verify behavior · test regressions · check security boundaries · protect sensitive data.
 
 ## GitHub activity
 
