@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="38" viewBox="0 0 760 38" role="img" aria-labelledby="title desc">
+<title id="title">Engineering signature</title>
+<desc id="desc">Building secure systems. Designing reliable backend APIs. Engineering with AI. Human judgment. Verified code.</desc>
+<defs>
+<style>
+.prompt { fill:#0d9488; }
+.command { fill:#2563a6; font-family:ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace; font-size:19px; font-weight:600; }
+.line {opacity:0;}
+.line0 {opacity:1; animation:phase0 20s linear infinite;}
+.line1 {animation:phase1 20s linear infinite;}
+.line2 {animation:phase2 20s linear infinite;}
+.line3 {animation:phase3 20s linear infinite;}
+.reveal {width:640px;}
+.r0 {animation:reveal0 20s steps(25,end) infinite;}
+.r1 {animation:reveal1 20s steps(32,end) infinite;}
+.r2 {animation:reveal2 20s steps(20,end) infinite;}
+.r3 {animation:reveal3 20s steps(30,end) infinite;}
+@keyframes phase0 {0%,24.9%{opacity:1}25%,100%{opacity:0}}
+@keyframes phase1 {0%,24.9%,50%,100%{opacity:0}25%,49.9%{opacity:1}}
+@keyframes phase2 {0%,49.9%,75%,100%{opacity:0}50%,74.9%{opacity:1}}
+@keyframes phase3 {0%,74.9%{opacity:0}75%,100%{opacity:1}}
+@keyframes reveal0 {0%{width:45px}8%,100%{width:640px}}
+@keyframes reveal1 {0%,25%{width:45px}33%,100%{width:640px}}
+@keyframes reveal2 {0%,50%{width:45px}58%,100%{width:640px}}
+@keyframes reveal3 {0%,75%{width:45px}83%,100%{width:640px}}
+@media(prefers-color-scheme: dark){.command{fill:#58a6ff}.prompt{fill:#5eead4}}
+@media(prefers-reduced-motion: reduce){.line,.reveal{animation:none!important}.line0{opacity:1}}
+</style>
+<clipPath id="c0"><rect class="reveal r0" x="226.1" y="0" width="640" height="38"/></clipPath>
+<clipPath id="c1"><rect class="reveal r1" x="180.5" y="0" width="640" height="38"/></clipPath>
+<clipPath id="c2"><rect class="reveal r2" x="248.9" y="0" width="640" height="38"/></clipPath>
+<clipPath id="c3"><rect class="reveal r3" x="191.9" y="0" width="640" height="38"/></clipPath>
+</defs>
+<text class="command line line0" x="226.1" y="25" clip-path="url(#c0)"><tspan class="prompt">&gt; </tspan>Building secure systems.</text>
+<text class="command line line1" x="180.5" y="25" clip-path="url(#c1)"><tspan class="prompt">&gt; </tspan>Designing reliable backend APIs.</text>
+<text class="command line line2" x="248.9" y="25" clip-path="url(#c2)"><tspan class="prompt">&gt; </tspan>Engineering with AI.</text>
+<text class="command line line3" x="191.9" y="25" clip-path="url(#c3)"><tspan class="prompt">&gt; </tspan>Human judgment. Verified code.</text>
+</svg>
